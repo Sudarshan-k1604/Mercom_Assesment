@@ -1,0 +1,7 @@
+#root {
+  max-width: 1280px; /* This was trapping your app! */
+  margin: 0 auto;
+}
+body {
+  background-color: #242424; /* This was causing the dark grey on the right! */
+}
